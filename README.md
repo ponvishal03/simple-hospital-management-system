@@ -44,8 +44,8 @@ The Hospital Management System (HMS) is a Python-based desktop application devel
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Hospital-Management-System.git
-   cd Hospital-Management-System
+   git clone https://github.com/your-username/simple-hospital-management-system.git
+   cd simple-hospital-management-system
    ```
 
 2. **Install Python dependencies**
